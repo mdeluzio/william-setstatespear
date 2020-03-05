@@ -16,7 +16,7 @@ class App extends Component {
           <PoemListPage />
         </main>
         <footer>
-          <p>© WilliamSetstatespear, 2018. All Rights Reserved.</p>
+          <p>© WilliamSetstatespear, 2020. All Rights Reserved.</p>
         </footer>
       </div>
     );
